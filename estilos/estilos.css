@@ -1,0 +1,105 @@
+body{
+    text-align: center;
+    background-color:#F2DCDC;
+   
+}
+
+h2{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 50%;
+}
+
+ img{
+    border-radius: 15px;
+ }
+  
+  
+
+  div{
+    background-color: #D98F95;
+    
+   
+  }
+
+  #imagen{
+  float: right;
+  width: 50%;
+  height: 250px;
+
+  }
+
+  img:hover{
+    border-radius: 30px;
+
+  }
+  
+
+  #texto{
+    float: left;
+    width: 50%;
+    height: 250px;
+  }
+
+  #metas{
+    float: left;
+    width: 50%;
+  padding: 4px;
+  height: 250px;
+  border-radius: 18px;
+  }
+  ol{
+    text-align: left;
+  }
+
+  a{
+    background-color: #F2DCDC ;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-size:large;
+  }
+  a:hover{
+    border-radius: 20px ;
+    background-color: #D98F95;
+    letter-spacing: 2px;
+  }
+  #datos{
+    width: 45%;
+    float: right;
+    padding: 20px;
+    border-radius: 15px;
+    height: 217px;
+  }
+
+
+#subtitulo{
+  background-color:#F2DCDC ;
+  width: 100%;
+}
+#subitulo1{
+  float: left;
+  width: 30%;
+}
+  
+#subitulo2{
+  float: right;
+  width: 30%;
+}
+
+#subtitulo1{
+  float: left;
+  width: 50%;
+ 
+}
+#subitulo2{
+  float: right;
+  width: 50%;
+  
+
+  }
+  #footer{
+    background-color: black;
+    
+
+  }
+  
